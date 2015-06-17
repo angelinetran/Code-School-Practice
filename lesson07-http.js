@@ -9,7 +9,6 @@ http.get(url, function(response){
   response.on('error', console.error);
 });
 
-
 /*
 
 var http = require('http')
